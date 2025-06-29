@@ -1,1 +1,0 @@
-# NetworkNinjas-installer.sh
